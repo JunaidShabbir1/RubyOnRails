@@ -1,24 +1,13 @@
-# README
+# Ruby on Rails Demo
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## IT Enterpenurship
 
-Things you may want to cover:
+### Blog Project
 
-* Ruby version
+1st : Download Ruby On Rails
 
-* System dependencies
+2nd : install -> gem install rails
 
-* Configuration
+3rd : rails new "Project Name"
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+4th : Push it on GITHUB.com
