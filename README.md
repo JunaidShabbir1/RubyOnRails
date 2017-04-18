@@ -23,3 +23,5 @@
 9th cmd-> : git remote add origin https://github.com/JunaidShabbir1/"YOUR REPOSTORY NAME".git
 
 10th cmd-> : git push -u origin master
+
+11th cmd-> : $ bin/rails generate controller Welcome index 
